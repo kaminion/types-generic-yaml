@@ -7,7 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["yaml", "yml", "yaml-loader", "yml-loader", "typescript", "types", "generic", "ambient", "module", "generic ambient module"],
-  "author": "Declan Andrew",
+  "homepage": "https://github.com/kaminion/types-generic-yaml",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaminion/types-generic-yaml"
+  },
+  "bugs": {
+    "url": "https://github.com/kaminion/types-generic-yaml/issues",
+    "email": "jwsoft0529@gmail.com"
+  },
+  "author": {
+    "name": "Declan Andrew",
+    "email": "jwsoft0529@gmail.com"
+  },
   "license": "ISC",
   "types": "./index.d.ts"
 }
