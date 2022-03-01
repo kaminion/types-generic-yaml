@@ -1,5 +1,5 @@
 {
-  "name": "@types/generic-yaml",
+  "name": "@type/generic-yaml",
   "version": "1.0.0",
   "description": "You don't need write generic ambient module definition for every times.",
   "main": "index.js",
