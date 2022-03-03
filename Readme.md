@@ -1,4 +1,4 @@
-# Types-generic-yaml &middot; [![github commit](https://shields.io/github/last-commit/kaminion/types-generic-yaml)](https://github.com/kaminion/types-generic-yaml) [![npm version](https://img.shields.io/npm/v/types-generic-yaml)](https://www.npmjs.com/package/types-generic-yaml) [![Downloads](https://img.shields.io/npm/dy/types-generic-yaml)](https://github.com/kaminion/types-generic-yam)
+# Types-generic-yaml &middot; [![github commit](https://shields.io/github/last-commit/kaminion/types-generic-yaml)](https://github.com/kaminion/types-generic-yaml) [![npm version](https://img.shields.io/npm/v/types-generic-yaml)](https://www.npmjs.com/package/types-generic-yaml) [![Downloads](https://img.shields.io/npm/dy/types-generic-yaml)](https://github.com/kaminion/types-generic-yaml)
 
 - This Module is generic ambient module for YAML(YML)
 - You don't need write generic ambient module definition for every times.
