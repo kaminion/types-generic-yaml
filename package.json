@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["yaml", "yml", "yaml-loader", "yml-loader", "typescript", "types", "generic", "ambient", "module", "generic ambient module"],
+  "keywords": ["yaml", "yml", "yaml-loader", "yml-loader", "typescript", "types", "generic", "ambient", "module", "webpack", "generic ambient module"],
   "homepage": "https://github.com/kaminion/types-generic-yaml",
   "repository": {
     "type": "git",
