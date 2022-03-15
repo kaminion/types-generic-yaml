@@ -1,12 +1,24 @@
 {
   "name": "types-generic-yaml",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "You don't need write generic ambient module definition for every times.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "keywords": ["yaml", "yml", "yaml-loader", "yml-loader", "typescript", "types", "generic", "ambient", "module", "webpack", "generic ambient module"],
+  "keywords": [
+    "yaml",
+    "yml",
+    "yaml-loader",
+    "yml-loader",
+    "typescript",
+    "types",
+    "generic",
+    "ambient",
+    "module",
+    "webpack",
+    "generic ambient module"
+  ],
   "homepage": "https://github.com/kaminion/types-generic-yaml",
   "repository": {
     "type": "git",
